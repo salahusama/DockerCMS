@@ -1,7 +1,7 @@
 # DockerCMS
-This is a Docker RESTful API management system.
+This is a Docker RESTful API management system. **This service is now disabled**.
 
-# Run (The server is now disabled)
+# Run
 To run this application, simply follow these steps:
 - pip install flask
 - sudo python server.py
